@@ -1,8 +1,8 @@
 {
   "name": "react-native-android-keystore",
   "description": "A react native android wrapper for keystore",
-  "version": "0.1.6",
-  "main": "index.android.js",
+  "version": "0.0.1",
+  "main": "keystore.js",
   "keywords": [
     "react-component",
     "react-native",
